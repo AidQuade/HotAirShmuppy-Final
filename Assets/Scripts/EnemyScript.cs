@@ -6,9 +6,9 @@ using Random = UnityEngine.Random;
 
 public class EnemyScript : MonoBehaviour
 {
+    private int enemyHealth;
     public GameObject target;
     private SpriteRenderer spriteRender;
-    public float enemyHealth = 3f;
     public Sprite damage1;
     public Sprite damage2;
     private float timeBtwShots;
@@ -23,6 +23,7 @@ public class EnemyScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        enemyHealth = 3;
         spriteRender = GetComponent<SpriteRenderer>();
         player = GameObject.FindGameObjectWithTag("Player").transform;
         timeBtwShots = startTimeBtwShots;
