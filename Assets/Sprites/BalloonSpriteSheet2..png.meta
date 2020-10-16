@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: a199382537b41fa4888ed8ff82159baf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3558911492616798677
+    second: BalloonSpriteSheet2._0
+  - first:
+      213: -7533942150234485904
+    second: BalloonSpriteSheet2._1
+  - first:
+      213: 3518221283596927114
+    second: BalloonSpriteSheet2._2
+  - first:
+      213: -9103169240313450810
+    second: BalloonSpriteSheet2._3
+  - first:
+      213: 8792457875773434549
+    second: BalloonSpriteSheet2._4
+  - first:
+      213: 1027580007234446948
+    second: BalloonSpriteSheet2._5
+  - first:
+      213: -733607581530420934
+    second: BalloonSpriteSheet2._6
+  - first:
+      213: 1703856145212393354
+    second: BalloonSpriteSheet2._7
+  - first:
+      213: 6092596999084786270
+    second: BalloonSpriteSheet2._8
+  - first:
+      213: -4703224519238370753
+    second: BalloonSpriteSheet2._9
+  - first:
+      213: 2094900428640138805
+    second: BalloonSpriteSheet2._10
+  - first:
+      213: 8044973513571948116
+    second: BalloonSpriteSheet2._11
+  - first:
+      213: -5462224798388870326
+    second: BalloonSpriteSheet2._12
+  - first:
+      213: -412683877965739325
+    second: BalloonSpriteSheet2._13
+  - first:
+      213: -1517116484984191835
+    second: BalloonSpriteSheet2._14
+  - first:
+      213: 3129615144831763498
+    second: BalloonSpriteSheet2._15
+  - first:
+      213: 714830003010432117
+    second: BalloonSpriteSheet2._16
+  - first:
+      213: 6791696357273338972
+    second: BalloonSpriteSheet2._17
+  - first:
+      213: -5924996082293175379
+    second: BalloonSpriteSheet2._18
+  - first:
+      213: 2711120880195358980
+    second: BalloonSpriteSheet2._19
+  - first:
+      213: 4222920038227108204
+    second: BalloonSpriteSheet2._20
+  - first:
+      213: -8841425452356181629
+    second: BalloonSpriteSheet2._21
+  - first:
+      213: -3391490399372220910
+    second: BalloonSpriteSheet2._22
+  - first:
+      213: -6197321516099330028
+    second: BalloonSpriteSheet2._23
+  - first:
+      213: 115189445927747464
+    second: BalloonSpriteSheet2._24
+  - first:
+      213: 6582402460854744405
+    second: BalloonSpriteSheet2._25
+  - first:
+      213: 4287604265123245759
+    second: BalloonSpriteSheet2._26
+  - first:
+      213: 3010314773666911984
+    second: BalloonSpriteSheet2._27
+  - first:
+      213: -8742610054142637695
+    second: BalloonSpriteSheet2._28
+  - first:
+      213: 4599823895054152334
+    second: BalloonSpriteSheet2._29
+  - first:
+      213: 659213157007311514
+    second: BalloonSpriteSheet2._30
+  - first:
+      213: 67655918783954092
+    second: BalloonSpriteSheet2._31
+  - first:
+      213: 765892042705425414
+    second: BalloonSpriteSheet2._32
+  - first:
+      213: 5006160603581111620
+    second: BalloonSpriteSheet2._33
+  - first:
+      213: -7489969849593239653
+    second: BalloonSpriteSheet2._34
+  - first:
+      213: -2756290052623726020
+    second: BalloonSpriteSheet2._35
+  - first:
+      213: 246577695359399342
+    second: BalloonSpriteSheet2._36
+  - first:
+      213: -6602622370923248767
+    second: BalloonSpriteSheet2._37
+  - first:
+      213: 2465424125198353159
+    second: BalloonSpriteSheet2._38
+  - first:
+      213: 4250576212525461628
+    second: BalloonSpriteSheet2._39
+  - first:
+      213: 3298450701738973629
+    second: BalloonSpriteSheet2._40
+  - first:
+      213: 4244389869885042890
+    second: BalloonSpriteSheet2._41
+  - first:
+      213: -5243591558034645057
+    second: BalloonSpriteSheet2._42
+  - first:
+      213: -3892018901004362747
+    second: BalloonSpriteSheet2._43
+  - first:
+      213: 8346249508023016854
+    second: BalloonSpriteSheet2._44
+  - first:
+      213: 4230946532784607328
+    second: BalloonSpriteSheet2._45
+  - first:
+      213: 6318651981515144137
+    second: BalloonSpriteSheet2._46
+  - first:
+      213: -1492034632681088988
+    second: BalloonSpriteSheet2._47
+  - first:
+      213: 1542169131558184755
+    second: BalloonSpriteSheet2._0
+  - first:
+      213: -8501535693892792088
+    second: BalloonSpriteSheet2._1
+  - first:
+      213: -3395137763705891477
+    second: BalloonSpriteSheet2._2
+  - first:
+      213: -1671244621811884789
+    second: BalloonSpriteSheet2._3
+  - first:
+      213: -500419934957953492
+    second: BalloonSpriteSheet2._4
+  - first:
+      213: 5300144853330524471
+    second: BalloonSpriteSheet2._5
+  - first:
+      213: -3827145375207060082
+    second: BalloonSpriteSheet2._6
+  - first:
+      213: -2186618956587705115
+    second: BalloonSpriteSheet2._7
+  - first:
+      213: -137375093354502028
+    second: BalloonSpriteSheet2._8
+  - first:
+      213: -9201013689323970540
+    second: BalloonSpriteSheet2._9
+  - first:
+      213: -6702767404105338955
+    second: BalloonSpriteSheet2._10
+  - first:
+      213: 7293643363834655231
+    second: BalloonSpriteSheet2._11
+  - first:
+      213: 2511610227403238314
+    second: BalloonSpriteSheet2._12
+  - first:
+      213: 5488961355395809650
+    second: BalloonSpriteSheet2._13
+  - first:
+      213: 6331195082324173227
+    second: BalloonSpriteSheet2._14
+  - first:
+      213: -3841486445041680427
+    second: BalloonSpriteSheet2._15
+  - first:
+      213: -7547528535371340679
+    second: BalloonSpriteSheet2._16
+  - first:
+      213: -5624223596684399709
+    second: BalloonSpriteSheet2._17
+  - first:
+      213: -4613806548734536696
+    second: BalloonSpriteSheet2._18
+  - first:
+      213: -3699258845870219947
+    second: BalloonSpriteSheet2._19
+  - first:
+      213: -5773150943724737543
+    second: BalloonSpriteSheet2._20
+  - first:
+      213: -7926340167949623105
+    second: BalloonSpriteSheet2._21
+  - first:
+      213: 1745616736042594201
+    second: BalloonSpriteSheet2._22
+  - first:
+      213: -2288215009157785307
+    second: BalloonSpriteSheet2._23
+  - first:
+      213: -4354379487380979278
+    second: BalloonSpriteSheet2._24
+  - first:
+      213: 7567740987607923156
+    second: BalloonSpriteSheet2._25
+  - first:
+      213: -6591546921759856271
+    second: BalloonSpriteSheet2._26
+  - first:
+      213: -8917885936402057354
+    second: BalloonSpriteSheet2._27
+  - first:
+      213: -1980808819842898755
+    second: BalloonSpriteSheet2._28
+  - first:
+      213: 863160176437729335
+    second: BalloonSpriteSheet2._29
+  - first:
+      213: 7570878160808542180
+    second: BalloonSpriteSheet2._30
+  - first:
+      213: 7968961169035672245
+    second: BalloonSpriteSheet2._31
+  - first:
+      213: -2402691730055239994
+    second: BalloonSpriteSheet2._32
+  - first:
+      213: -4734178357891687278
+    second: BalloonSpriteSheet2._33
+  - first:
+      213: -4392361210476067734
+    second: BalloonSpriteSheet2._34
+  - first:
+      213: 1088572330605005198
+    second: BalloonSpriteSheet2._35
+  - first:
+      213: 7842384044449334287
+    second: BalloonSpriteSheet2._36
+  - first:
+      213: 4376539341027050003
+    second: BalloonSpriteSheet2._37
+  - first:
+      213: 5713030685195733673
+    second: BalloonSpriteSheet2._38
+  - first:
+      213: -2665986759022580930
+    second: BalloonSpriteSheet2._39
+  - first:
+      213: -1338901682070124491
+    second: BalloonSpriteSheet2._40
+  - first:
+      213: 8082720911215734643
+    second: BalloonSpriteSheet2._41
+  - first:
+      213: 4651814558499244500
+    second: BalloonSpriteSheet2._42
+  - first:
+      213: 4985110420006333766
+    second: BalloonSpriteSheet2._43
+  - first:
+      213: -337483780531275454
+    second: BalloonSpriteSheet2._44
+  - first:
+      213: -6706434696104173818
+    second: BalloonSpriteSheet2._45
+  - first:
+      213: 1335935805857409206
+    second: BalloonSpriteSheet2._46
+  - first:
+      213: -3032950939087916792
+    second: BalloonSpriteSheet2._47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BalloonSpriteSheet2._0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337291687a2e66510800000000000000
+      internalID: 1542169131558184755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloonSpriteSheet2._1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e05738545a740a80800000000000000
+      internalID: -8501535693892792088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloonSpriteSheet2._2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65dbce213c02e0d0800000000000000
+      internalID: -3395137763705891477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloonSpriteSheet2._3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dde100fdb8ec8e0800000000000000
+      internalID: -1671244621811884789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloonSpriteSheet2._4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e9e4278b62e09f0800000000000000
+      internalID: -500419934957953492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloonSpriteSheet2._5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73971e8a9a5ed8940800000000000000
+      internalID: 5300144853330524471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloonSpriteSheet2._6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d010fee8f33eac0800000000000000
+      internalID: -3827145375207060082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloonSpriteSheet2._7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec5479e4a197a1e0800000000000000
+      internalID: -2186618956587705115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloonSpriteSheet2._8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4786e979412f71ef0800000000000000
+      internalID: -137375093354502028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloonSpriteSheet2._9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410a6527cce6f4080800000000000000
+      internalID: -9201013689323970540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloonSpriteSheet2._10
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfeb3a0f8cfaf2a0800000000000000
+      internalID: -6702767404105338955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloonSpriteSheet2._11
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1ffbbfef9383560800000000000000
+      internalID: 7293643363834655231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
