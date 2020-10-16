@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Security.Cryptography;
 using UnityEngine;
 
 public class ProjectileScript : MonoBehaviour
@@ -27,6 +28,7 @@ public class ProjectileScript : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.tag == "Enemy"){
+           // Destroy(this.gameObject);
             return;
         }
 
@@ -41,7 +43,7 @@ public class ProjectileScript : MonoBehaviour
         if (other.gameObject.tag == "Enemy")
         {
             // award points
-            Destroy(other.gameObject);
+            //Destroy(other.gameObject);
             Destroy(this.gameObject);
         }
 

@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1044358471022263658}
   - component: {fileID: 1044358471022263659}
   - component: {fileID: 5718220331780575579}
+  - component: {fileID: 1198656859}
   m_Layer: 0
   m_Name: Enemy 1
   m_TagString: Enemy
@@ -96,7 +97,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3f8892cadaae9241843409b440eff4e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyHealth: 3
+  target: {fileID: 0}
   damage1: {fileID: -7180611461847456714, guid: 2d5e01f032bf00342b3911219ae68d0d,
     type: 3}
   damage2: {fileID: 1353759595946460336, guid: 2d5e01f032bf00342b3911219ae68d0d, type: 3}
@@ -104,7 +105,7 @@ MonoBehaviour:
   speed: 1
   stoppingDistance: 4
   retreatDistance: 2
-  enemyProjectile: {fileID: 7017486512236027793, guid: 743592b84a3ab4a37b2b79b81427a1ef,
+  enemyProjectile: {fileID: 8632203046951863962, guid: ff8f44dbbf192d8458c8d9cd1901f794,
     type: 3}
   player: {fileID: 0}
 --- !u!70 &5718220331780575579
@@ -123,3 +124,24 @@ CapsuleCollider2D:
   m_Offset: {x: 0.06729772, y: -0.13859302}
   m_Size: {x: 0.9237222, y: 0.860267}
   m_Direction: 1
+--- !u!50 &1198656859
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1044358471022263656}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
