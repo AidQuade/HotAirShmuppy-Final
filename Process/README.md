@@ -10,6 +10,12 @@ I still have to commit to the theme for one of my possible shmup ideas before ch
  -Procedures: The objective is accomplished by shooting to destroy the various enemies while avoiding being hit. Collecting items will allow new ways to shoot, resources for staying alive, or change gameplay providing powerups with advantages for trade-offs.
  -Conflict: The conflict emerges from the enemies who keep coming and shooting at the player in increasing difficulty as the game goes on. There could also be obstacles or environmental issues like birds, or floating traps to avoid.
  
+ # 9.30.20 Physics Simulation
+    Spent a lot of time working on getting ropes that had physics simulation holding the basket to the balloon. Still struggling to figure out how to get the cannon to also stay atatched to the basket due to the way parent child relationships move simultaneously in Unity. Also would like to add force when the cannon fires that pushes the payer slightly in the opposite direction but currently can only get this to happen on the basket. Besides that, player animation and controls are basically done. Now I need to add enemies.
+    
+ # 10.02.20 Enemies
+ 
+ Created sprites for an enemy type as well as damage states so they take a few shots to take out. Enemies chase player up to a distance and then retreat if the player gets too close, still struggling on getting the enemies to apply damage states to the player and implement the falling mechanic where the balloon sprite gets damaged and the player falls out of the air if they don't repair fast enough. 
  
  
 
